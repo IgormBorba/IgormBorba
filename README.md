@@ -1,7 +1,7 @@
-### Programador apaixonado em busca da excelência: impulsionando a inovação e o sucesso
+## Passionate Programmer Pursuing Excellence: Driving Innovation and Success
 
-Com uma visão clara do meu objetivo profissional, estou sempre em busca de novos desafios que me ajudem a crescer e me desenvolver como programador, pois minha meta é clara, compreender a fundo cada etapa do processo de desenvolvimento de uma aplicação digna de seus usuários!
+With a clear vision of my professional objective, I am always looking for new challenges that will help me grow and develop as a programmer, as my goal is clear, to thoroughly understand each stage of the process of developing an application worthy of its users!
 
-Meu objetivo profissional é garantir que o que eu faço tem valor e qualidade. Tenho uma paixão ardente pela programação, processos lógicos envolvidos e entendo que, para se destacar nessa área dinâmica, é necessário investir em capacitação e aprimorar constantemente minhas habilidades técnicas.
+My professional goal is to ensure that what I do has value and quality. I have a burning passion for programming, the logical processes involved and I understand that, to stand out in this dynamic area, it is necessary to invest in training and constantly improve my technical skills.
 
-Estou sempre em busca de aprofundar meus conhecimentos em linguagens de programação, frameworks, bancos de dados, plataformas de infraestrutura(AWS, GCP, Azure) e outras ferramentas utilizadas no campo da tecnologia. Valorizo a colaboração em equipe e busco trabalhar em um ambiente que me permita aprender com meus colegas de trabalho e contribuir para o sucesso do projeto como um todo.
+I am always looking to deepen my knowledge of programming languages, frameworks, databases, infrastructure platforms (AWS, GCP, Azure) and other tools used in the field of technology. I value team collaboration and seek to work in an environment that allows me to learn from my co-workers and contribute to the success of the project as a whole.
