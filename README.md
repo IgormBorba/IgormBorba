@@ -1,4 +1,4 @@
-### "Programador apaixonado em busca da excelência: impulsionando a inovação e o sucesso"
+## Programador apaixonado em busca da excelência: impulsionando a inovação e o sucesso
 
 Com uma visão clara do meu objetivo profissional, estou sempre em busca de novos desafios que me ajudem a crescer e me desenvolver como programador, pois minha meta é clara, compreender a fundo cada etapa do processo de desenvolvimento de uma aplicação digna de seus usuários!
 
