@@ -39,11 +39,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://github.com/ryo-ma">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=IgormBorba&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed" />
 </a>
-
-<h2 align="center">My github profile stastictics.</h2>
-
-<p align="center">
-    <a href="https://github.com/IgormBorba">
-        <img title="IgormBorba stats" alt="IgormBorba Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IgormBorba&theme=dark&hide_border=true&stroke=f53b3b"/>
-    </a>
-</p><br>
