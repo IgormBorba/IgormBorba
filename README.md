@@ -1,13 +1,4 @@
 
-<h2 align="center">Discord Profile</h2><br>
-<p align="left">
-    <a href="https://discord.com/users/370265106816172032">
-        <img title="Solaris Discord" alt="Solaris's discord" src="https://discord.c99.nl/widget/theme-3/1059260083151843478.png"/>
-    </a>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=15&duration=1000&pause=500&color=F7DF1A&multiline=true&height=75&lines=Vi+veri+veniversum+vivus+vici;Pelo+poder+da+verdade%2C+eu%2C+enquanto+vivo%2C;conquistei+o+universo)](https://git.io/typing-svg)
-
 Hi, i'm Igor, a passionate self-taught full stack web developer from brazil. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
