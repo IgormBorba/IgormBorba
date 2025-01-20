@@ -1,7 +1,11 @@
 
-Hi, i'm Igor, a passionate self-taught full stack web developer from brazil. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I’m Igor, a skilled Full Stack Web Developer from Brazil with expertise in building scalable and efficient software solutions. I specialize in backend development using PHP, Laravel, and Node.js, along with frontend technologies like React and NestJS. I also have extensive experience with cloud platforms such as AWS, Digital Ocean, and Docker, enabling me to deliver robust SaaS applications.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+In my recent work, I’ve integrated Artificial Intelligence tools like Cloud 3.5 and DeepSeek into my development process, significantly improving productivity and efficiency in areas such as code review, patch updates, and test automation. My focus is on delivering high-quality, innovative solutions that meet business needs effectively.
+
+I’m also an advocate for continuous learning and collaboration. During my academic and professional journey, I’ve participated in hackathons, collaborative development groups, and projects that honed my technical and teamwork skills. I’m currently exploring advanced topics in AI development and cloud computing to stay ahead in the fast-evolving tech landscape.
+
+Feel free to connect with me to discuss exciting opportunities or collaborate on impactful projects!
 
   <img align="right" alt="GIF" src="https://64.media.tumblr.com/51230d3b61456042bc9ce1554864df68/tumblr_ocuzkchn3J1tjryj4o1_540.gif?raw=true" width="495" height="500" />
   
