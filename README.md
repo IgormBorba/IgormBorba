@@ -6,9 +6,6 @@ In my recent work, I’ve integrated Artificial Intelligence tools like Cloud 3.
 I’m also an advocate for continuous learning and collaboration. During my academic and professional journey, I’ve participated in hackathons, collaborative development groups, and projects that honed my technical and teamwork skills. I’m currently exploring advanced topics in AI development and cloud computing to stay ahead in the fast-evolving tech landscape.
 
 Feel free to connect with me to discuss exciting opportunities or collaborate on impactful projects!
-  
-- 💼 any freelance work? do reach, [email](mailto:nicklink.lv@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
