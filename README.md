@@ -25,7 +25,3 @@ Feel free to connect with me to discuss exciting opportunities or collaborate on
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarisSy&langs_count=8" />
 </a>
-
-<a href="https://github.com/ryo-ma">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=IgormBorba&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed" />
-</a>
